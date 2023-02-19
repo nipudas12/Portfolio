@@ -1,0 +1,230 @@
+<div class="row">
+                                <div class="row">
+                                    <div class="program padd-15">
+                                        programmer
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="program-item padd-45">
+                                        <h5> C </h5>
+                                        <div class="progress">
+                                            <div class="progress-in" style="width: 75%"></div>
+                                            <div class="skill-percent">75%</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="program-item padd-45">
+                                        <h5> C++ </h5>
+                                        <div class="progress">
+                                            <div class="progress-in" style="width: 75%"></div>
+                                            <div class="skill-percent">75%</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="program-item padd-45">
+                                        <h5> DSA </h5>
+                                        <div class="progress">
+                                            <div class="progress-in" style="width: 70%"></div>
+                                            <div class="skill-percent">70%</div>
+                                        </div>
+                                    </div>
+                                    <div class="program-item padd-45">
+                                        <h5> Java </h5>
+                                        <div class="progress">
+                                            <div class="progress-in" style="width: 50%"></div>
+                                            <div class="skill-percent">50%</div>
+                                        </div>
+                                    </div>
+
+
+
+
+
+                                    contact
+
+
+
+
+
+.Contact .contact-info-item {
+    -ms-flex: 0 0 33.33%;
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.Contact .contact-info-item .icon {
+    display: inline-block;
+}
+
+.Contact .contact-info-item .icon .fa {
+    font-size: 40px;
+}
+
+.Contact .contact-info-item h4 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #302e4d;
+    text-transform: capitalize;
+    margin: 15px 0 5px;
+}
+
+.Contact .contact-info-item p {
+    font-size: 16px;
+    line-height: 25px;
+    color: #504e70;
+    margin: 0;
+    font-weight: 400;
+}
+
+.Contact .contact-form {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.Contact .contact-form .col-6 {
+    -ms-flex: 300%;
+    flex: 0 0 300%;
+    max-width: 100%;
+}
+
+.Contact .contact-form .col-12 {
+    -ms-flex: 0 0 500%;
+    flex: 0 0 500%;
+    max-width: 100%;
+}
+
+.Contact .contact-form .form-item {
+    margin-bottom: 30px;
+}
+
+.Contact .contact-form .form-item .form-control {
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid #d4d4e3;
+    padding: 10px 25px;
+    font-size: 16px;
+    color: #504e70;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    align-items: center;
+}
+
+.Contact .contact-form .form-item .form-control:focus {
+    -webkit-box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+    box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+}
+
+.Contact .contact-form .form-item textarea.form-control {
+    height: 140px;
+}
+
+.
+Contact .contact-form .btn {
+    height: 50px;
+    padding: 0 50px;
+}
+
+
+
+
+html
+
+ <section>
+            <div class="Contact section">
+                <div class="container">
+                    <div class="row">
+                        <div class="section-title padd-95">
+                            <h2> Contact Me</h2>
+                        </div>
+                    </div>
+                    201 594 731</p>
+                        </div>
+                        <div class="contact-info-item padd-15">
+                            <div class="icon"><i class="fa fa-map-marker"></i></div>
+                            <h4> Address </h4>
+                            <p> Kishanganj, Bihar India </p>
+                        </div>
+                        <div class="contact-info-item padd-15">
+                            <div class="icon"><i class="fa fa-envelope"></i></div>
+                            <h4> Email</h4>
+                            <p> nipuchandradas1<div class="row">
+                        <div class="contact-info-item padd-55">
+                            <div class="icon"><i class="fa fa-phone"></i></div>
+                            <h4> Call Us On</h4>
+                            <p>+91 623@gmail.com </p>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <form class="contact-form padd-45">
+                            <div class="row">
+                                <div class="contact-form-item col-6 padd-45">
+                                    <div class="row">
+                                        <div class="form-item col-6 padd-45">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control" placeholder="Name*">
+                                            </div>
+                                        </div>
+                                        <div class="form-item col-6 padd-45">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control" placeholder="Email*">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-item col-6 padd-45">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control" placeholder="Subject*">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-item col-12 padd-45">
+                                            <div class="form-group">
+                                                <textarea type="text" class="form-control" placeholder="Your Message..."></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 padd-45">
+                                            <button type="submit" class="btn"> Send Message</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+        <
+        /section>
+
+
+
+        <label>
+            <input type="radio " class="body-skin " name="body-style " value="light " checked="true ">
+            Light
+        </label>
+        <label>
+            <input type="radio " class="body-skin " name="body-style " value="dark ">
+            Dark
+        </label>
+
+
+        const bodySkin = document.querySelectorAll(".body-skin"),
+    totalBodySkin = bodySkin.length;
+for (let i = 0; i < totalBodySkin; i++) {
+    bodySkin[i].addEventListener("change", function() {
+        if (this.value === "dark") {
+            document.body.className = "dark";
+        } else {
+            document.body.className = "";
+        }
+    })
+}
+
+border: 1px solid #d4d4e3;
